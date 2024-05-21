@@ -3,3 +3,6 @@
 
 ## 2024-04-08
 Homework#2, simple calculator 구현
+
+## 2024-05-21
+Homework#4, 모듈과 클래스 작성
